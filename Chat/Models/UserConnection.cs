@@ -1,3 +1,3 @@
 namespace Chat.Models;
 
-public record UserConnection(string username, string charRoom);
+public record UserConnection(string Username, string ChatRoom);
